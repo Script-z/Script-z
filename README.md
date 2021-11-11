@@ -2,4 +2,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Script-z&layout=compact&theme=dracula)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12186097777&unique={true|1|on|yes})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12186097777&count={1})
